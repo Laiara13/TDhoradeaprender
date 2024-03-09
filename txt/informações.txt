@@ -34,3 +34,24 @@
     <!--Por exemplo, se você deseja redirecionar automaticamente os 
       visitantes da página HTMl atual para a URL http://www.outrosite.com/ 
       após 5 segundos, você pode usar a seguinte meta tag:-->
+
+
+
+
+      echo "# TDhoradeaprender" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Laiara13/TDhoradeaprender.git
+git push -u origin main
+
+
+
+
+
+git remote add origin https://github.com/Laiara13/TDhoradeaprender.git
+git branch -M main
+git push -u origin main
+
+
