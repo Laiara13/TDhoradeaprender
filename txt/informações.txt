@@ -1,0 +1,36 @@
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aprendendo a criar um site</title> <!-- Título da página-->
+    <meta name="author" content="Laiara Leizer"> <!-- Nome do autor vem aqui -->
+    <link rel="stylesheet" href="./css/style.css" /> <!-- Link do CSS -->
+    <link rel="shortcut icon" href="./img/jinx.jpg" type="image/x-icon" /> <!-- Foto do icone da página -->
+    <meta name="reply-to" content="O email para duvidas vem aqui">
+    <meta property="og:keywords" content="As palavras chave vem aqui" />
+    <meta property="og:title" content="H1 da página" />
+    <meta property="og:description" content="A descrição vem aqui" />
+    <meta property="og:type" content="website" />
+    <!-- <meta http-equiv="refresh" content="5 ;url=http://www.outrosite.com/">   -->
+
+    <!--Por exemplo, se você deseja redirecionar automaticamente os 
+      visitantes da página HTMl atual para a URL http://www.outrosite.com/ 
+      após 5 segundos, você pode usar a seguinte meta tag:-->
+
+
+      acima geral. abaixo meu.
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aprendendo a criar um site</title> <!-- Título da página-->
+    <meta name="author" content="Laiara Leizer"> <!-- Nome do autor vem aqui -->
+    <link rel="stylesheet" href="./css/style.css" /> <!-- Link do CSS -->
+    <link rel="shortcut icon" href="./img/jinx.jpg" type="image/x-icon" /> <!-- Foto do icone da página -->
+    <meta name="reply-to" content="laiara-leizer@educar.rs.gov.br">
+    <meta property="og:keywords" content="As palavras chave vem aqui" />
+    <meta property="og:title" content="H1 da página" />
+    <meta property="og:description" content="A descrição vem aqui" />
+    <meta property="og:type" content="website" />
+    <!-- <meta http-equiv="refresh" content="5 ;url=http://www.outrosite.com/">   -->
+
+    <!--Por exemplo, se você deseja redirecionar automaticamente os 
+      visitantes da página HTMl atual para a URL http://www.outrosite.com/ 
+      após 5 segundos, você pode usar a seguinte meta tag:-->
