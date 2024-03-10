@@ -51,7 +51,25 @@ git push -u origin main
 
 
 git remote add origin https://github.com/Laiara13/TDhoradeaprender.git
+
+
+git commit -m "versao 1"
 git branch -M main
 git push -u origin main
 
 
+https://github.com/Laiara13/TDhoradeaprender
+
+
+
+
+
+
+
+
+
+  <!-- <meta http-equiv="refresh" content="5 ;url=http://www.outrosite.com/">   -->
+
+    <!-- Por exemplo, se você deseja redirecionar automaticamente os 
+      visitantes da página HTMl atual para a URL http://www.outrosite.com/ 
+      após 5 segundos, você pode usar a seguinte meta tag: -->

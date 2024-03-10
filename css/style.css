@@ -1,3 +1,4 @@
+/* GERAL */
 .gochi-hand-regular {
     font-family: "Gochi Hand", cursive;
     font-weight: 400;
@@ -17,6 +18,11 @@
     margin: 0;
     
 }
+/* GERAL */
+
+
+
+/* HEADER */
 
 header {
     width: 100vw;
@@ -49,3 +55,16 @@ header {
     margin-left: 3vw;
     margin-top: 10vh;
 }
+/* HEADER */
+
+/* MAIN */
+
+.titulo{
+    display: flex;
+    font-size: 8vw;
+    font-style: none;
+    font-family: "Gochi Hand", cursive;
+    font-weight: 100;
+}
+
+/* MAIN */
