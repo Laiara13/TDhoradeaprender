@@ -49,9 +49,7 @@ git push -u origin main
 
 
 
-
 git remote add origin https://github.com/Laiara13/TDhoradeaprender.git
-
 
 git commit -m "versao 1"
 git branch -M main
